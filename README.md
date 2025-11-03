@@ -216,7 +216,7 @@ predict_sentiment("Terrible quality, very disappointed.")  # Negative
 | ผู้จัดทำ | หน้าที่ |
 |-----------|----------|
 | **นิธิโรจน์ รัตนเรืองมาศ (6610505446)** | Data Preparation, Preprocessing, Upsampling, TextVectorization, Data Pipeline, New Sentence Testing |
-| **สิโรฒม์ วีระกุล** | Model Architecture Design (Embedding, Bi-LSTM, Dropout, Dense), Model Training, Evaluation (classification_report, confusion_matrix), Model Explanation |
+| **สิโรฒม์ วีระกุล (6610502234)** | Model Architecture Design (Embedding, Bi-LSTM, Dropout, Dense), Model Training, Evaluation (classification_report, confusion_matrix), Model Explanation |
 
 ---
 
