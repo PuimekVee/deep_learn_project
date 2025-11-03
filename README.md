@@ -185,8 +185,7 @@ predict_sentiment("Terrible quality, very disappointed.")  # Negative
 
 ## Dataset
 
-ข้อมูลรีวิวสินค้าจาก **Amazon.com**  
-(สามารถหาได้จาก [Kaggle Datasets](https://www.kaggle.com))
+ข้อมูลรีวิวสินค้าจาก **[Amazon.com](https://www.kaggle.com/datasets/tarkkaanko/amazon)**  
 
 ### โครงสร้างข้อมูลก่อนประมวลผล
 | Column | Description |
